@@ -1,0 +1,6 @@
+{
+  "name": "Habit Builder for Students",
+  "description": "A polished mobile-responsive habit tracking and gamification app tailored for high school and college students to build daily habits, track streaks, earn XP, and unlock achievement milestone badges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
